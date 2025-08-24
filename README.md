@@ -3,38 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Правила сервера DoomyWorld</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #0d0d0d;
-      color: #f2f2f2;
-      margin: 0;
-      padding: 20px;
-    }
-    h1 {
-      text-align: center;
-      color: #ff3333;
-      margin-bottom: 30px;
-    }
-    h2 {
-      color: #ff6666;
-      border-bottom: 1px solid #ff3333;
-      padding-bottom: 5px;
-      margin-top: 30px;
-    }
-    .rule {
-      margin: 15px 0;
-      padding: 10px;
-      background: #1a1a1a;
-      border-left: 5px solid #ff3333;
-      border-radius: 8px;
-    }
-    .punishment {
-      color: #ffcc00;
-      font-weight: bold;
-    }
-  </style>
+  
 </head>
 <body>
   <h1>📜 Правила сервера DoomyWorld</h1>
